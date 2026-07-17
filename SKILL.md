@@ -1,123 +1,87 @@
 ---
 name: threads-social-strategist
-description: Plan and optimize strategic Threads growth for @serstaxx. Use when Addy needs a Threads strategy, weekly content plan, positioning, engagement priorities, performance review, growth diagnosis, or a recommendation about what to post and reply to. Aligns Threads activity to speaking, Rapid Labs, Vibe Connect, and product-validation goals; delegates individual post writing to threads-content-generator and publishing to threads-auto-poster.
+description: Plan and optimize Threads strategy for any creator, founder, operator, or brand. Use when the user needs a Threads content strategy, daily post drafts, weekly audit, positioning, engagement priorities, performance review, growth diagnosis, or recommendations about posts and replies.
 ---
+
 # Threads Social Strategist
 
 ## Overview
 
-Build an opinionated, repeatable Threads operating plan that compounds Addy's authority and turns attention into qualified conversations. Optimize for relevant replies, profile visits, DMs, event interest, and inbound opportunities, not follower count alone.
+Create an opinionated, repeatable Threads operating plan that turns attention into relevant conversations and measurable outcomes. Optimize for the user's actual goal, such as leads, community participation, product research, event registrations, or authority, rather than follower count alone.
+
+## First-Run Setup
+
+Before planning content, establish or request:
+
+- Account handle and the account's primary audience.
+- One business or audience objective for the current period.
+- The user's credible experience, proof, products, services, events, or research areas.
+- Voice traits, topics to avoid, and examples of posts they consider strong.
+- Available performance data and its location or source.
+
+Do not assume the user's industry, identity, audience, business, results, or personal stories. Use placeholders until the user supplies the missing context.
 
 ## Operating Defaults
 
-- Audience: AI-curious builders, product leaders, community operators, educators, and decision-makers who can book workshops, speaking, sponsorships, or product research.
-- Positioning: practical AI translator who teaches, builds, and convenes; credible across product strategy, agents, AI implementation, and IRL community.
-- Cadence: 4-6 original posts weekly; 10-15 substantive replies weekly; 1 deliberate relationship-building interaction daily when practical.
-- Promotion: sell indirectly. Earn attention with useful or specific viewpoints, then use a clear but light invitation when it directly fits the post.
-- Voice: concise, specific, opinionated, human. Avoid generic motivational language, recycled "AI is changing everything" claims, and engagement bait.
+- Choose one primary objective at a time and name its success signal.
+- Use a mix of points of view, real proof, practical frameworks, conversation openers, and selective commercial or event mentions.
+- Favor concise, specific writing over generic inspiration or recycled social-media advice.
+- Use timely news only when the user can add a distinct, defensible interpretation.
+- Prioritize relevant replies and durable relationships over engagement volume.
 
-## Strategy Workflow
+## Daily Content Workflow
 
-### 1. Establish the Current Objective
+Create seven distinct ready-to-post Threads drafts when the user requests a daily content set:
 
-Choose one primary objective for the period. Default order of priority:
+1. Two industry, tool, or point-of-view posts.
+2. Two practical frameworks, workflow insights, or educational posts.
+3. One proof-of-work post based only on verified user-provided evidence.
+4. One conversation-opening question that reveals audience pain or priorities.
+5. One post connected to the user's current offer, event, product research, or authority goal.
 
-1. Establish authority for paid speaking and Rapid Labs workshops.
-2. Create qualified conversations with operators, partners, and product teams.
-3. Build Vibe Connect event and sponsor demand.
-4. Recruit product research participants or design partners.
+For each draft, provide:
 
-Do not make follower growth the objective unless the user specifically requests it. State the chosen objective, target audience, and success signal before proposing content.
+- Suggested posting time in the user's timezone.
+- Strategic role.
+- Ready-to-post text, normally 100-300 characters.
 
-### 2. Set the Weekly Mix
+Give every draft one clear claim and a natural conversation prompt. Avoid links, hashtags, fabricated anecdotes or outcomes, repetitive hard sells, and duplicate angles unless the user requests otherwise.
 
-Use a mix that avoids becoming a one-note AI-news account:
+## Weekly Audit Workflow
 
-| Content role | Weekly target | Purpose |
-| --- | --- | --- |
-| Point of view | 2 | Establish an original, defensible perspective on AI, product, or work. |
-| Proof from the field | 1 | Show teaching, building, community, or research evidence. |
-| Practical framework | 1 | Give people a reusable method or decision rule. |
-| Conversation opener | 1 | Ask a precise question that attracts the right people. |
-| Selective offer/event mention | 0-1 | Connect the content to a workshop, talk, Vibe Connect, or research need when earned. |
+When reviewing performance, state the coverage period and sources inspected. Analyze patterns across:
 
-Balance timely commentary with durable insights. Use current AI news only where Addy can add a distinct interpretation, not merely summarize it.
+- Topic and point of view.
+- Format and opening line.
+- Audience response quality.
+- Timing and topical relevance.
+- Conversion signals such as profile visits, DMs, leads, registrations, or research participants.
 
-### 3. Build the Plan
+Separate measured results from qualitative judgment. If metrics are unavailable, say so plainly and audit only the content and operating pattern; never invent reach, engagement, follows, clicks, or conversions.
 
-For a weekly plan, provide:
+Conclude with one or two testable hypotheses for the next period and a reply map of 5-10 relevant conversations, communities, or people. For each reply target, specify the useful contribution the user can make. Do not recommend empty compliments or copy-paste replies.
 
-1. Objective and audience.
-2. Five post briefs: hook, core claim, supporting proof or angle, intended conversation, and business connection.
-3. A reply map: 5-10 people, communities, or active discussions to engage with, including the value Addy can add. Do not recommend empty compliments or copy-paste replies.
-4. One relationship action: a thoughtful DM, follow-up, event invitation, or collaborator signal only when context supports it.
-5. A simple scorecard: outputs, meaningful replies, profile visits/follows if available, qualified conversations, and downstream outcomes.
+## Automation Guidance
 
-Use `threads-content-generator` for ready-to-post copy after the briefs are agreed. Use `threads-auto-poster` only after the user explicitly asks to post.
+For a daily agent, schedule a daily morning run that writes seven drafts to a dated file. For a weekly audit, run once per week before the daily draft generation and write the audit to a separate dated file. Do not publish, reply, or send DMs without the user's explicit approval.
 
-### 4. Review and Adjust
-
-When the user provides exports, screenshots, or post metrics, analyze patterns rather than declaring a winner from a single post. Compare:
-
-- Topic and point of view
-- Format and opening line
-- Audience response quality
-- Time/topic relevance
-- Conversion signal: profile visits, DMs, invites, leads, registrations, or research participants
-
-Recommend one or two tests for the next period. Retain high-quality posts that attract the right people even if raw reach is modest. Stop repeating formats that produce shallow engagement without relevant conversations.
-
-## Decision Rules
-
-- Lead with experience, observations, and judgment. Cite sources when making factual claims that need support.
-- Preserve authenticity. Do not fabricate personal stories, client results, event attendance, or opinions.
-- Keep commercial mentions specific and proportional. No hard pitch in every post.
-- Prioritize reply quality and durable relationships over volume.
-- Never publish, DM, or engage from the account without explicit user approval.
-
-## Weekly Agent Run
-
-For a daily operating agent, create seven distinct ready-to-post drafts each morning. Inspect the available Threads performance data, scheduled-content records, and prior strategy files before drafting the weekly audit every Friday. Store each completed audit in `Social/threads-weekly-audits/` and each daily draft set in `Social/threads-daily-drafts/`, with an ISO date in its filename.
-
-Include:
-
-1. Posts and topics reviewed, plus the data source and coverage period.
-2. What worked, what did not, and the evidence. Separate measured results from qualitative judgment.
-3. One or two hypotheses to test next week.
-4. Seven ready-to-post daily drafts: two AI/tool points of view, two product/workflow insights, one real proof-of-work post, one operator-pain question, and one relevant business or community post.
-5. A concise reply map and one relationship-building action.
-
-If account metrics are unavailable, say so plainly. Audit the available content and operating pattern without inventing reach, engagement, or conversion results.
-
-## Output Formats
-
-### Strategy Snapshot
-
-Use this for a quick direction check:
-
-```markdown
-Objective:
-Audience:
-Positioning angle:
-This week's thesis:
-Success signal:
-```
-
-### Weekly Operating Plan
-
-Use this for planning:
+## Output Format
 
 ```markdown
 ## Objective
+Audience:
+Success signal:
 
-## Five Post Briefs
-| Day | Role | Hook | Claim | Desired response | Business connection |
+## Daily Drafts
+| Time | Role | Draft |
+
+## Weekly Audit
+Coverage period:
+Sources:
+What worked:
+What to change:
+Next tests:
 
 ## Reply Map
-| Target/topic | Why it matters | Specific contribution |
-
-## Scorecard
-| Metric | Target | Result |
-
-## Next Test
+| Target/topic | Useful contribution |
 ```
